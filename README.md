@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨I prefer Designing than coding<br>🌱Currently learning UI/UX design and Backend development<br>⚡In my free time I read manhuas or play video games<br>🐈 I have 3 cats</p>
+<p align="left">✨I prefer Designing than coding<br>🌱Currently learning UI/UX design <br>⚡In my free time I read manhuas or play video games<br>🐈 I have 3 cats</p>
 
 ###
 
