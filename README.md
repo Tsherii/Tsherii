@@ -5,7 +5,7 @@
 ## 🌸 About Me
 - 🎨  I enjoy working on UI/UX projects and turning ideas into functional designs. <br>
 - 📚  Currently a 4th Year BSIT Student majoring in Database Management.<br>
-- ⚡  I spend my free time with my cats, gaming, watching movies, or diving into manhwa.
+- ⚡  I spend my free time with my cats, gaming, watching movies, and diving into manhwa.
 
 ## 🌱 Currently Learning
 - Crafting user-centered designs using Figma and design systems
